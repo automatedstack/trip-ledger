@@ -2,15 +2,14 @@
 
 This folder contains the static V1 landing, Support, and Privacy pages intended for public hosting before TestFlight/App Store submission.
 
-## Publication blockers
+## Selected publisher details
 
-Replace every bracketed placeholder before publication:
+- Support/feedback email: `zhengkunlu@gmail.com`
+- Copyright publisher name: `ZHENG KUN LU`
+- Privacy Policy effective date: October 11, 2026
+- Intended host: GitHub Pages under the `automatedstack` GitHub organization
 
-- `[SUPPORT_EMAIL]`
-- `[PUBLISHER LEGAL NAME]`
-- `[PUBLICATION DATE]`
-
-Then confirm the public URLs and add them to `03_Product_Documents/APP_STORE_CONNECT_METADATA_DRAFT.md`.
+The public repository name and resulting URLs must be confirmed before publication, then added to `03_Product_Documents/APP_STORE_CONNECT_METADATA_DRAFT.md`.
 
 ## Local preview
 
@@ -18,7 +17,7 @@ Open `index.html` directly in a browser or serve this directory with a local sta
 
 ## Pre-publication verification
 
-1. Search recursively for `[` and confirm no placeholders remain.
+1. Search recursively for bracketed placeholders and confirm none remain.
 2. Check all three pages in narrow and wide layouts and in Light/Dark Mode.
 3. Confirm keyboard navigation and visible focus behavior.
 4. Validate HTML and verify every internal and external link.
@@ -26,4 +25,3 @@ Open `index.html` directly in a browser or serve this directory with a local sta
 6. Confirm the support mailbox is monitored.
 
 The Bank of Canada links document the external reference-rate service. Trip Ledger's developer does not receive the Bank's request logs, but the Bank states that its web servers may record IP address and request metadata.
-

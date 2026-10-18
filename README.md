@@ -6,7 +6,7 @@ This folder contains the static V1 landing, Support, and Privacy pages intended 
 
 - Support/feedback email: `tripledger.support@gmail.com`
 - Copyright publisher name: `ZHENG KUN LU`
-- Privacy Policy effective date: October 11, 2026
+- Privacy Policy effective date: October 18, 2026
 - Intended host: GitHub Pages under the `automatedstack` GitHub organization
 
 The public repository name and resulting URLs must be confirmed before publication, then added to `03_Product_Documents/APP_STORE_CONNECT_METADATA_DRAFT.md`.
